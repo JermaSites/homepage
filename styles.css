@@ -206,7 +206,7 @@ footer {
 .datagrid {
 	font: normal Ubuntu;
 	background: transparent;
-	overflow: hidden;
+	overflow: auto;
 	border: 2px solid #FFFFFF;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
