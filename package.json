@@ -1,0 +1,26 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "The homepage of jerma.io, listing all Jerma Sites",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JermaSites/homepage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JermaSites/homepage/issues"
+  },
+  "homepage": "https://github.com/JermaSites/homepage#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.4",
+    "vite": "^2.1.2"
+  }
+}
