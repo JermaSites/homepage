@@ -4,7 +4,9 @@
   "description": "The homepage of jerma.io, listing all Jerma Sites",
   "main": "index.js",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "repository": {
     "type": "git",
