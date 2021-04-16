@@ -127,9 +127,8 @@ article > div {
 }
 /* Debt Added Body */
 .added {
-	text-align: left;
-	padding-top: 20px;
-	padding-bottom: 1px;
+	font-size: 90%;
+	margin-bottom: 10px;
 	background-color: darkred;
 }
 /* Debt Added Title */
@@ -160,7 +159,7 @@ article > div {
 	background-color: #722600;
 	margin-left: -10.5vw;
 	margin-top: -50px;
-	margin-bottom: 5px;
+	margin-bottom: 10px;
 }
 
 .added > li {
