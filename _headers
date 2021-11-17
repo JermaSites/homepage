@@ -1,0 +1,5 @@
+/*
+  Permissions-Policy: interest-cohort=()
+  
+https://:jerma.pages.dev/*
+  X-Robots-Tag: noindex
